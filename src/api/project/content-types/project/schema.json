@@ -43,6 +43,10 @@
         "Analytics",
         "Python"
       ]
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
